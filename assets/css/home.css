@@ -1,0 +1,64 @@
+body {
+    text-align: center;
+}
+
+ul li {
+    list-style: none;
+}
+
+li {
+    background-color: black;
+    color: white;
+    margin: 4px 0px;
+    /* padding: 0px 0px; */
+    width: 400px;
+    justify-content: space-between;
+
+
+}
+
+#named {
+    font-size: 3rem;
+    width: 350px;
+
+    /* border: 2px solid; */
+}
+
+#phones {
+    font-size: 2rem;
+    width: 250px;
+    background-color: black;
+    color: white;
+    /* border: 1px solid; */
+}
+
+.tempp {
+    display: flex;
+    /* justify-content: space-between; */
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 57px;
+    width: 50px;
+    background-color: black;
+    margin: 4px 0px;
+}
+
+.bar {
+    background-color: black;
+    color: white;
+    border-radius: 15px;
+    width: 250px;
+    height: 40px;
+    margin: 6px
+}
+
+.bts {
+    height: 40px;
+    width: 121px;
+    margin: 20px 0px;
+    border-radius: 13px;
+}
